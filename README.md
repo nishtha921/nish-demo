@@ -1,4 +1,4 @@
 # nish-demo
 This is my first git repository.
 <br>
-Author - Nishtha jain
+Author - Nishtha jain (Manipal)
